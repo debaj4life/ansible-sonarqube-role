@@ -1,5 +1,5 @@
 ---
-# tasks file for ansible-role-sonarqube
+# tasks file for ansible-sonarqube-role
 - include_tasks: prepare.yml
   tags: 
     - sonarqube

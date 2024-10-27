@@ -1,4 +1,4 @@
 ---
-# defaults file for ansible-role-sonarqube
+# defaults file for ansible-sonarqube-role
 sonarqube_version: "sonarqube-9.9.6.92038"
 
